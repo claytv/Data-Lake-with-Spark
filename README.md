@@ -15,6 +15,8 @@ An introduction to using Apache Spark. Originally completed in August 2019 throu
 * Create a S3 bucket and put the name in dl.cfg file ( Or perform locally ) 
 * Update AWS keys to your own in dl.cfg
 
+* If performing locally add local location in dl.cfg
+
 ### Update etl.py
 * Update input_data and output_data variables in main() from 'etl.py' to reflect local or S3 usage
 
