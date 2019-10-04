@@ -6,7 +6,6 @@ An introduction to using Apache Spark. Originally completed in August 2019 throu
 ### File Descriptions 
 
 * README.md - Overview of the project with instructions
-* data - Folder containing all of the data
 * dl.cfg - Configuration files which allows the user to hide information but still give the other files access 
          - Change information in this file to match your S3 Bucket
          
