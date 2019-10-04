@@ -1,5 +1,5 @@
 ## Data Lake with Spark 
-An introduction to using Apache Spark. Originally completed in August 2019. 
+An introduction to using Apache Spark. Originally completed in August 2019 through the Udacity Data Engineer Nanodegree. 
 
 ### The goal of this project is to build an ETL pipeline that extracts song and event data from S3 for sparkify and transforms it into a data lake written to another location so that the data is usable for analytics. 
 
