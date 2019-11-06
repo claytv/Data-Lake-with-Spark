@@ -24,4 +24,4 @@ An introduction to using Apache Spark. Originally completed in August 2019 throu
 * In the terminal execute the command 'python etl.py'
 
 ### Verify 
-* Examine the parquet files in the output_data to ensure they are properly written
+* Examine the parquet files in the output_data location to ensure they are properly written
